@@ -532,15 +532,14 @@ CCTV-1/CCTV1
 
 
 
+
 ## 最新更新信息
-更新时间：2026-06-16 17:19:59
+更新时间：2026-06-17 17:06:09
 
 ### 可用文件
-- M3U格式：[`result.m3u`](https://raw.githubusercontent.com/walke2019/MYIPTV/main/output/result.m3u)
-- TXT格式：[`result.txt`](https://raw.githubusercontent.com/walke2019/MYIPTV/main/output/result.txt)
+- M3U格式：[`result.m3u`](https://raw.githubusercontent.com/polo464748211/MYIPTV/main/output/result.m3u)
+- TXT格式：[`result.txt`](https://raw.githubusercontent.com/polo464748211/MYIPTV/main/output/result.txt)
 
 ### HTTP测速结果
-- M3U格式：[`first_test.m3u`](https://raw.githubusercontent.com/walke2019/MYIPTV/main/output/first_test.m3u)
-- TXT格式：[`first_test.txt`](https://raw.githubusercontent.com/walke2019/MYIPTV/main/output/first_test.txt)
-确保README.md发生更改
-更新时间: 2026-06-16 17:41:38
+- M3U格式：[`first_test.m3u`](https://raw.githubusercontent.com/polo464748211/MYIPTV/main/output/first_test.m3u)
+- TXT格式：[`first_test.txt`](https://raw.githubusercontent.com/polo464748211/MYIPTV/main/output/first_test.txt)

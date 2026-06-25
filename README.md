@@ -552,4 +552,4 @@ CCTV-1/CCTV1
 - M3U格式：[`first_test.m3u`](https://raw.githubusercontent.com/polo464748211/MYIPTV/main/output/first_test.m3u)
 - TXT格式：[`first_test.txt`](https://raw.githubusercontent.com/polo464748211/MYIPTV/main/output/first_test.txt)
 确保README.md发生更改
-更新时间: 2026-06-25 15:53:08
+更新时间: 2026-06-25 16:02:15

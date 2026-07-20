@@ -565,8 +565,9 @@ CCTV-1/CCTV1
 
 
 
+
 ## 最新更新信息
-更新时间：2026-07-19 14:34:03
+更新时间：2026-07-20 14:51:15
 
 ### 可用文件
 - M3U格式：[`result.m3u`](https://raw.githubusercontent.com/polo464748211/MYIPTV/main/output/result.m3u)
@@ -575,5 +576,3 @@ CCTV-1/CCTV1
 ### HTTP测速结果
 - M3U格式：[`first_test.m3u`](https://raw.githubusercontent.com/polo464748211/MYIPTV/main/output/first_test.m3u)
 - TXT格式：[`first_test.txt`](https://raw.githubusercontent.com/polo464748211/MYIPTV/main/output/first_test.txt)
-确保README.md发生更改
-更新时间: 2026-07-19 15:08:26

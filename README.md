@@ -611,8 +611,9 @@ CCTV-1/CCTV1
 
 
 
+
 ## 最新更新信息
-更新时间：2026-09-04 16:39:07
+更新时间：2026-09-05 16:12:01
 
 ### 可用文件
 - M3U格式：[`result.m3u`](https://raw.githubusercontent.com/polo464748211/MYIPTV/main/output/result.m3u)
